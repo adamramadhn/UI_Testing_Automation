@@ -11,7 +11,7 @@ module.exports = defineConfig({
             // "cypress/support/e2e/registration.js",
             "cypress/support/e2e/login.js",
             "cypress/support/e2e/add_product.js",
-            // "cypress/support/e2e/add_penjualan.js",
+            "cypress/support/e2e/add_penjualan.js",
     
         ],
 
